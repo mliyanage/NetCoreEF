@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreCrudApp", "WebApplication1\NetCoreCrudApp.csproj", "{B3081D38-31B9-4F2A-B304-8B8167E8C409}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3081D38-31B9-4F2A-B304-8B8167E8C409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3081D38-31B9-4F2A-B304-8B8167E8C409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3081D38-31B9-4F2A-B304-8B8167E8C409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3081D38-31B9-4F2A-B304-8B8167E8C409}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3609E244-A3BF-423E-A9E3-F8B72F36AACF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\GIT\NetCoreCrudApp\NetCoreCrudApp\WebApplication1\bin\Debug\netcoreapp2.2\NetCoreCrudApp.deps.json
+C:\GIT\NetCoreCrudApp\NetCoreCrudApp\WebApplication1\bin\Debug\netcoreapp2.2\NetCoreCrudApp.runtimeconfig.json
+C:\GIT\NetCoreCrudApp\NetCoreCrudApp\WebApplication1\bin\Debug\netcoreapp2.2\NetCoreCrudApp.runtimeconfig.dev.json
+C:\GIT\NetCoreCrudApp\NetCoreCrudApp\WebApplication1\bin\Debug\netcoreapp2.2\NetCoreCrudApp.dll
+C:\GIT\NetCoreCrudApp\NetCoreCrudApp\WebApplication1\obj\Debug\netcoreapp2.2\NetCoreCrudApp.csprojAssemblyReference.cache
+C:\GIT\NetCoreCrudApp\NetCoreCrudApp\WebApplication1\obj\Debug\netcoreapp2.2\NetCoreCrudApp.csproj.CoreCompileInputs.cache
+C:\GIT\NetCoreCrudApp\NetCoreCrudApp\WebApplication1\obj\Debug\netcoreapp2.2\NetCoreCrudApp.RazorAssemblyInfo.cache
+C:\GIT\NetCoreCrudApp\NetCoreCrudApp\WebApplication1\obj\Debug\netcoreapp2.2\NetCoreCrudApp.RazorAssemblyInfo.cs
+C:\GIT\NetCoreCrudApp\NetCoreCrudApp\WebApplication1\obj\Debug\netcoreapp2.2\NetCoreCrudApp.AssemblyInfoInputs.cache
+C:\GIT\NetCoreCrudApp\NetCoreCrudApp\WebApplication1\obj\Debug\netcoreapp2.2\NetCoreCrudApp.AssemblyInfo.cs
+C:\GIT\NetCoreCrudApp\NetCoreCrudApp\WebApplication1\obj\Debug\netcoreapp2.2\NetCoreCrudApp.RazorTargetAssemblyInfo.cache
+C:\GIT\NetCoreCrudApp\NetCoreCrudApp\WebApplication1\bin\Debug\netcoreapp2.2\NetCoreCrudApp.pdb
+C:\GIT\NetCoreCrudApp\NetCoreCrudApp\WebApplication1\obj\Debug\netcoreapp2.2\NetCoreCrudApp.dll
+C:\GIT\NetCoreCrudApp\NetCoreCrudApp\WebApplication1\obj\Debug\netcoreapp2.2\NetCoreCrudApp.pdb
